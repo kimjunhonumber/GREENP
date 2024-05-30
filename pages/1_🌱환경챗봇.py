@@ -2,7 +2,6 @@ import pathlib
 import textwrap
 import google.generativeai as genai
 import streamlit as st
-import toml
 from PIL import Image
 import io
 
